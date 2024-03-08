@@ -18,15 +18,5 @@ Ce référentiel contient mes premiers pas dans le monde de la programmation Pyt
   https://www.python.org 🐍
 
 
-/*
- *   ^___^
- *  " o o "
- *  ===X===       _
- *   ' " '_     __\\
- *  /''''  \___/ __/
- * |           /
- * ("|")__\   |
- * "" ""(_____/
- * 
- */
+
 
