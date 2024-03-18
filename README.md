@@ -13,6 +13,18 @@ Ce référentiel contient mes premiers pas dans le monde de la programmation Pyt
 - `hello_world.py`: Mon tout premier programme Python qui affiche "Hello, World!" à l'écran.
 - `calculatrice.py`: Une calculatrice basique pour effectuer des opérations d'addition, de soustraction, de multiplication et de division.
 - `nombre_aleatoire.py`: Génère un nombre aléatoire entre 0 et 9.
+- **Snake Eater 🐍 🕹️ 💻**
+
+Un jeu de serpent écrit en Python à l'aide de la bibliothèque Pygame.
+
+
+
+Exécutez la commande suivante dans le terminal pour installer la bibliothèque Pygame :
+
+```bash
+pip3 install pygame
+```
+
 - et autres
   ## Documentation📚
   https://www.python.org 🐍
