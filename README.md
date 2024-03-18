@@ -35,7 +35,7 @@ pip3 install pygame
 
 ![3](https://user-images.githubusercontent.com/32998741/33873440-28647360-df45-11e7-8291-b82d5646352f.png)
 *Game over screen*
--# Tetris
+### Tetris
 
 ### Commandes
 Pour déplacer les pièces utilisez les flèches :arrow_left: gauches et :arrow_right: droite.  Pour retourner une pièce pousser sur la :arrow_up: flèche du haut.  Pour faire descendre une pièce directement tout en bas faites la :arrow_down: flèche du bas.  Poussez sur `esc` pour mettre le jeu en pause.
