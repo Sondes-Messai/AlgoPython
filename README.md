@@ -20,6 +20,7 @@ Un jeu de serpent écrit en Python à l'aide de la bibliothèque Pygame.
 
 
 Exécutez la commande suivante dans le terminal pour installer la bibliothèque Pygame :
+* [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
 ```bash
 pip3 install pygame
@@ -38,6 +39,7 @@ pip3 install pygame
 - et autres
   ## Documentation📚
   https://www.python.org 🐍
+  * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
 
 
