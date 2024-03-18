@@ -42,7 +42,9 @@ Pour déplacer les pièces utilisez les flèches :arrow_left: gauches et :arrow_
 
 
 ### Image
-![Preview](tetris.png)
+
+
+<img width="364" alt="tetrice " src="https://github.com/Sondes-Messai/AlgoPython/assets/95591621/d1c23034-c0c4-45f3-b1d5-2a12871510c9">
 
 - et autres
   ## Documentation📚
