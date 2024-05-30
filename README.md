@@ -50,6 +50,10 @@ Pour déplacer les pièces utilisez les flèches :arrow_left: gauches et :arrow_
   ## Documentation📚
   https://www.python.org 🐍
   * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
+    Pour avoir les exercices:
+  * git clone https://github.com/Sondes-Messai/AlgoPython.git
+    
+
 
 
 
